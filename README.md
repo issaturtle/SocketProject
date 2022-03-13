@@ -1,6 +1,7 @@
 # SocketProject
 - Created a server to accept x amount of clients with a set amount of time.
-- User can move through the local directory differently.
+- Leveraged Pickle library to decode/encode user input through sockets.
+- Implemented threading pools to handle concurrent users in the server.
 
 # Direction:
 1. Start the server program through command line with conditions.  
