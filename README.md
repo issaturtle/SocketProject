@@ -1,7 +1,7 @@
 # SocketProject
-• Designed a server using threads that allows concurrent users to navigate through the server’s directory.
-• Leveraged socket and Pickle library to serialize/deserialize user inputs.
-• Reduced memory consumption by automatically closing any unused threads for a set period. 
+- Designed a server using threads that allows concurrent users to navigate through the server’s directory.
+- Leveraged socket and Pickle library to serialize/deserialize user inputs.
+- Reduced memory consumption by automatically closing any unused threads for a set period. 
 
 
 # Direction:
