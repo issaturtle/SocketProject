@@ -1,8 +1,8 @@
 # SocketProject
-- Created a server to accept x amount of clients with a set amount of time.
+- Created a server that allows users to navigate through the directories.
 - Leveraged Pickle library to decode/encode user input through sockets.
-- Implemented threading pools to handle concurrent users in the server.
-- Automatically close unused threads 
+- Implemented threading pools to handle concurrent users on the server.
+- Automatically close unused threads to prevent wasting memory.
 
 # Direction:
 1. Start the server program through command line with conditions.  
