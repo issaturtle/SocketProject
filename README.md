@@ -1,8 +1,8 @@
 # SocketProject
-- Created a server that allows users to navigate through the directories.
-- Leveraged Pickle library to decode/encode user input through sockets.
-- Implemented threading pools to handle concurrent users on the server.
-- Automatically close unused threads to prevent wasting memory.
+• Designed a server using threads that allows concurrent users to navigate through the server’s directory.
+• Leveraged socket and Pickle library to serialize/deserialize user inputs.
+• Reduced memory consumption by automatically closing any unused threads for a set period. 
+
 
 # Direction:
 1. Start the server program through command line with conditions.  
